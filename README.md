@@ -1,12 +1,36 @@
-# React + Vite
+# 📝 To-Do List App — React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal and intuitive **To-Do List App** built using **React**. This project allows users to efficiently manage their daily tasks with features like task addition, editing, deletion, and local storage support.
 
-Currently, two official plugins are available:
+### 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Click here to try the app](https://to-do-list-react-ten-jade.vercel.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔧 Features
+
+- ✅ Add new tasks easily  
+- 📝 Edit existing tasks in-place  
+- ❌ Delete tasks with a click  
+- 💾 Persistent data using **localStorage**  
+- ⚡ Responsive and clean UI  
+- 🔄 Real-time task updates without page refresh  
+
+---
+
+## 🛠️ Built With
+
+- React (Functional Components + Hooks)  
+- HTML & CSS  
+- LocalStorage  
+
+---
+
+## 📁 Folder Structure
+
+src/
+│
+├── App.js # Main app logic
+├── App.css # Styling for the app
+├── index.js # Entry point
