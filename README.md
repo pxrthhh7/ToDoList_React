@@ -4,7 +4,7 @@ A minimal and intuitive **To-Do List App** built using **React**. This project a
 
 ### 🚀 Live Demo
 
-👉 [Click here to try the app](https://to-do-list-react-ten-jade.vercel.app/)
+👉 [Click here to try the app]()
 
 ---
 
